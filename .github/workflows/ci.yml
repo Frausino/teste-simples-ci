@@ -1,7 +1,7 @@
 
 name: CI Pipeline - LogiTech
 
-# Executa em qualquer Push ou Pull Request para a branch principal ou de etapa
+# Executa em qualquer Push ou Pull Request para a branch principal ou de ETAPA
 on:
   push:
     branches: [ "main", "01-*" ]
